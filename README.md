@@ -42,6 +42,10 @@ https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss1
 * Results and Conclusion
 ---
 ## References
+* https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17
+* Chawla, Nitesh V, Kevin W Bowyer, Lawrence O Hall, and W Philip Kegelmeyer. 2002. “SMOTE: Synthetic Minority over-Sampling Technique.” Journal of Artificial Intelligence Research 16: 321–57.
+* Xiao-Qing, W., &Jin-Meng, Y. (2021). Classification of star/galaxy/QSO and star spectral types from LAMOST data release 5 with machine learning approaches. Chinese Journal of Physics, 69, 303-311. [11]Clarke, A. O., Scaife, A. M. M., Greenhalgh, R., &Griguta, V. (2020). 
+* Identifying galaxies, quasars, and stars with machine learning: A new catalogue of classifications for 111 million SDSS sources with-out spectra. Astronomy & Astrophysics, vol.639, p.A84. 
 ## Acknowledgements
 The data released by the SDSS is under public domain. Its taken from the current data release RD17.
 More information about the license: http://www.sdss.org/science/image-gallery
